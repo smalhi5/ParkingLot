@@ -1,0 +1,12 @@
+C:\Source\ParkingLot\ParkingLotAPI\bin\Debug\netcoreapp3.1\ParkingLotAPI.deps.json
+C:\Source\ParkingLot\ParkingLotAPI\bin\Debug\netcoreapp3.1\ParkingLotAPI.dll
+C:\Source\ParkingLot\ParkingLotAPI\bin\Debug\netcoreapp3.1\ParkingLotAPI.pdb
+C:\Source\ParkingLot\ParkingLotAPI\obj\Debug\netcoreapp3.1\ParkingLotAPI.csproj.AssemblyReference.cache
+C:\Source\ParkingLot\ParkingLotAPI\obj\Debug\netcoreapp3.1\ParkingLotAPI.AssemblyInfoInputs.cache
+C:\Source\ParkingLot\ParkingLotAPI\obj\Debug\netcoreapp3.1\ParkingLotAPI.AssemblyInfo.cs
+C:\Source\ParkingLot\ParkingLotAPI\obj\Debug\netcoreapp3.1\ParkingLotAPI.csproj.CoreCompileInputs.cache
+C:\Source\ParkingLot\ParkingLotAPI\obj\Debug\netcoreapp3.1\ParkingLotAPI.dll
+C:\Source\ParkingLot\ParkingLotAPI\obj\Debug\netcoreapp3.1\ParkingLotAPI.pdb
+C:\Source\ParkingLot\ParkingLotAPI\bin\Debug\netcoreapp3.1\ParkingLotData.dll
+C:\Source\ParkingLot\ParkingLotAPI\bin\Debug\netcoreapp3.1\ParkingLotData.pdb
+C:\Source\ParkingLot\ParkingLotAPI\obj\Debug\netcoreapp3.1\ParkingLotAPI.csproj.CopyComplete
